@@ -9,5 +9,5 @@ Excellence is important to me. I want to build things that will matter to people
 - 🔭 I’m currently working on a website building tool to help small business owners quickly and painlessly get online for the first time
 - 🌱 I’m currently learning UX basic principles to build something people will love using and Advanced React to get it on the page
 - 🤔 I’m looking for my first paid position as a web developer
-- 📫 Reach out to me at fox.jamison@outlook.com or linkedin.com/in/jamison-fox
+- 📫 Reach out to me at fox.jamison@outlook.com or www.linkedin.com/in/jamison-fox
 - ⚡ Fun fact: I'm super double jointed. I'll show you if you interview me. :)
