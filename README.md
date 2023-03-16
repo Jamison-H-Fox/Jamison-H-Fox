@@ -11,3 +11,13 @@ Excellence is important to me. I want to build things that will matter to people
 - 🤔 I’m looking for my first paid position as a web developer
 - 📫 Reach out to me at fox.jamison@outlook.com or www.linkedin.com/in/jamison-fox
 - ⚡ Fun fact: I'm super double jointed. I'll show you if you interview me. :)
+
+### My Skills:
+- HTML
+- CSS
+- JavaScript
+  - Node.js
+  - React.js
+- Testing
+  - Cypress
+  - Jest
