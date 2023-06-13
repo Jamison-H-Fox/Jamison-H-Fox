@@ -10,7 +10,6 @@ Excellence is important to me. I want to build things that matter to people and 
 - 🌱 I’m currently learning UX basic principles to build something people will love using and Advanced React to get it on the page
 - 🤔 I’m looking for my first paid position as a web developer
 - 📫 Reach out to me at fox.jamison@outlook.com or www.linkedin.com/in/jamison-fox
-- ⚡ Fun fact: I'm super double jointed. I'll show you if you interview me. :)
 
 ### My Skills:
 - HTML
@@ -18,6 +17,7 @@ Excellence is important to me. I want to build things that matter to people and 
 - JavaScript
   - Node.js
   - React.js
+  - Next.js
 - Testing
   - Cypress
   - Jest
