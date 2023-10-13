@@ -4,7 +4,7 @@
 
 - I like startups because they go fast. 
 
-- I like fullstack because you get to know your product on an intimate level.
+- I like fullstack because you get intimate with your product.
 
 - I like frontend because there's a lot of magic.
 
